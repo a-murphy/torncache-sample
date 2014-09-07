@@ -10,8 +10,7 @@ env:
 notifications:
      email:
          recipients:
-             - iamgrootbatman@gmail.com 
-             - chandrakanth@shippable.com
+             - aidan@shippable.com
          on_success: always
          #on_failure: always
          
